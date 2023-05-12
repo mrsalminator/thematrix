@@ -1,2 +1,2 @@
 # thematrix
-New_version
+New_version 1.2
